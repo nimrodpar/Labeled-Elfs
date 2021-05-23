@@ -18,6 +18,7 @@ The Malware is labeled with the following Package names:
 4. lightaidra-1.0
 
 The following are what you call "Hackware" meaning they are not Malware per say, but will be flagged by most AV engines:
+
 5. pnscan  
   
 Hope this is useful. 
