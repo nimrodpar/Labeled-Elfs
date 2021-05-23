@@ -1,6 +1,8 @@
 # Labeled-Elfs
 A collection of well labeled ELF binaries compiled from benign and malicious code in various ways (various archs, compilers and opt levels). Great for exploring similarity in executables and training various ML models.
 
+**IMPORTANT: The repo contains live malware, use with discresion!**
+
 Here's an example of one of the filenames, containing detailed labeling:
 
 `x86__64__lsb__unix-system-v__gcc-5.5.0__O0__no-obf__unstripped__coreutils-8.30__nice`
@@ -20,5 +22,6 @@ The Malware is labeled with the following Package names:
 The following are what you call "Hackware" meaning they are not Malware per say, but will be flagged by most AV engines:
 
 5. pnscan  
+
   
 Hope this is useful. 
