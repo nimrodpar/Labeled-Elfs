@@ -1,5 +1,5 @@
 # Labeled-Elfs
-A collection of well labeled ELF binaries compiled from benign and malicious code in various ways. Great for exploring similarity in executables and training various ML models.
+A collection of well labeled ELF binaries compiled from benign and malicious code in various ways (various archs, compilers and opt levels). Great for exploring similarity in executables and training various ML models.
 
 Here's an example of one of the filenames, containing detailed labeling:
 
