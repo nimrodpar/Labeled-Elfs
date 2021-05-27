@@ -11,7 +11,7 @@ The structure is:
 
 `{Architecture}__{Bit width}__{Endianess}__{ABI}__{Compiler used to compile the exe}__{Optimization level}__{Whether obfuscation was applied}__{Is the file stripped of debug symbols}__{Package name}__{Program name}`
 
-There are some obfuscated files which will by labeled by compilers named `llvm-obfuscator-3.6.1` etc. with the specific obfuscation applied e.g., `mllvmsub_mllvmbcf`. See https://github.com/obfuscator-llvm/obfuscator/wiki for more details on that.
+Some ELFs are obfuscated. They are labeled by compilers named `llvm-obfuscator-*` with the specific obfuscation applied (e.g., `mllvmsub_mllvmbcf`). See https://github.com/obfuscator-llvm/obfuscator/wiki for more details on that.
 
 The Malware is labeled with the following Package names:
 1. Mirai-vanilla
